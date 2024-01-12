@@ -1,7 +1,7 @@
 Check k3s etcd status
 
 ```
-./k3s-etcdcheck.sh --help
+./k3s-etcdcheck.sh help
 Usage: k3s-etcdcheck.sh [OPTIONS]
 
 Available options:
