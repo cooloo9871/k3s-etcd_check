@@ -2,7 +2,7 @@ Check k3s etcd status
 ```
 $ git clone https://github.com/cooloo9871/k3s-etcd_check.git;cd k3s-etcd_check
 ```
-
+## You need to run it on the master
 ```
 ./k3s-etcd_check.sh help
 Usage: k3s-etcdcheck.sh [OPTIONS]
