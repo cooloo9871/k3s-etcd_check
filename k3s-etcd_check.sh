@@ -4,7 +4,7 @@
 help()
 {
   cat <<EOF
-Usage: k3s-etcdcheck.sh [OPTIONS]
+Usage: k3s-etcd_check.sh [OPTIONS]
 
 Available options:
 
