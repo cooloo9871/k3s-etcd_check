@@ -1,7 +1,10 @@
 Check k3s etcd status
+```
+$ git clone https://github.com/cooloo9871/k3s-etcd_check.git;cd k3s-etcd_check
+```
 
 ```
-./k3s-etcdcheck.sh help
+./k3s-etcd_check.sh help
 Usage: k3s-etcdcheck.sh [OPTIONS]
 
 Available options:
