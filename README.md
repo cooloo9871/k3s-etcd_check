@@ -1,4 +1,4 @@
-Check k3s etcd status
+# This script is used to check k3s etcd status.
 ```
 $ git clone https://github.com/cooloo9871/k3s-etcd_check.git;cd k3s-etcd_check
 ```
